@@ -7,4 +7,6 @@ print(f"subtraction {a-b}")
 print(f"multification {a*b}")
 print(f"division {a/b}")
 
-   
+first_name= input("enter the first name ")
+last_name=input("enter the last name ")
+print(f"Hello {first_name} {last_name},welcome to python program")
